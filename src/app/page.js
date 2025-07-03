@@ -45,11 +45,11 @@ export default function Home() {
 
       {/* ABOUT ME SECTION */}
       <div
-        className={`px-4 my-28 flex flex-col md:flex-row items-center gap-10 ${playfair.className}`}
+        className={`px-4 my-28 flex flex-col md:flex-row items-center gap-10 max-w-4xl mx-auto ${playfair.className}`}
       >
         <div className="flex justify-center">
           <img
-            src="/public/profile.png"
+            src="/images/profile.jpg"
             alt="Adam"
             className="w-40 h-40 md:w-52 md:h-52 object-cover rounded-full"
           />
