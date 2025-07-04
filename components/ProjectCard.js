@@ -13,8 +13,8 @@ const ProjectCard = ({ title, description, image, tags, link, github }) => {
         className="w-full h-48 object-cover"
       />
       <div className="p-4">
-        <h3 className="text-xl font-semibold">{title}</h3>
-        <p className="text-sm text-gray-600 dark:text-gray-300">
+        <h3 className="text-xl font-semibold text-center">{title}</h3>
+        <p className="text-sm text-gray-600 dark:text-gray-300 text-center">
           {description}
         </p>
         <div className="flex flex-wrap mt-3 gap-2 justify-center">
