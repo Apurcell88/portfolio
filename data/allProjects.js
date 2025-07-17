@@ -36,7 +36,7 @@ export const allProjects = [
     title: "File Nest",
     description: "Securely manage your files.",
     image: "/images/projects/file-nest.png",
-    tags: ["NextJS, Prisma, Cloudinary"],
+    tags: ["NextJS", "Prisma", "Cloudinary"],
     link: "https://file-nest-kappa.vercel.app/",
     github: "https://github.com/Apurcell88/FileNest",
   },
