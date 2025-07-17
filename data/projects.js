@@ -8,11 +8,11 @@ export const projects = [
     github: "https://github.com/Apurcell88/anonymous-clubhouse",
   },
   {
-    title: "Socially",
-    description: "A social network site.",
-    image: "/images/projects/socially.png",
-    tags: ["Next.js", "Prisma", "Clerk", "Shadcn"],
-    link: "https://socially-eight-sage.vercel.app/",
-    github: "https://github.com/Apurcell88/socially",
+    title: "File Nest",
+    description: "Securely manage your files.",
+    image: "/images/projects/file-nest.png",
+    tags: ["NextJS, Prisma, Cloudinary"],
+    link: "https://file-nest-kappa.vercel.app/",
+    github: "https://github.com/Apurcell88/FileNest",
   },
 ];
