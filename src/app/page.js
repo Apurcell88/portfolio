@@ -36,7 +36,7 @@ export default function Home() {
         <h2 className={`text-3xl font-semibold mb-10 ${playfair.className}`}>
           Featured Projects
         </h2>
-        <div className="flex flex-col md:flex-row justify-center items-center gap-8">
+        <div className="flex flex-col md:flex-row justify-center items-center gap-8 w-full">
           {projects.map((project, i) => (
             <ProjectCard key={i} {...project} />
           ))}
