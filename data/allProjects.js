@@ -3,7 +3,7 @@ export const allProjects = [
     title: "JobTrail",
     description: "Securely manage your job applications",
     image: "/images/projects/job-trail.png",
-    tags: ["NextJS", "Prisma", "Clerk"],
+    tags: ["NextJS", "Neon", "Prisma", "Clerk"],
     link: "https://job-tracker-taupe.vercel.app/",
     github: "https://github.com/Apurcell88/Job-Tracker",
   },
