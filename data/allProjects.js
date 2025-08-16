@@ -1,5 +1,21 @@
 export const allProjects = [
   {
+    title: "JobTrail",
+    description: "Securely manage your job applications",
+    image: "/images/projects/job-trail.png",
+    tags: ["NextJS", "Prisma", "Clerk"],
+    link: "https://job-tracker-taupe.vercel.app/",
+    github: "https://github.com/Apurcell88/Job-Tracker",
+  },
+  {
+    title: "File Nest",
+    description: "Securely manage your files.",
+    image: "/images/projects/file-nest.png",
+    tags: ["NextJS", "Prisma", "Cloudinary"],
+    link: "https://file-nest-kappa.vercel.app/",
+    github: "https://github.com/Apurcell88/FileNest",
+  },
+  {
     title: "Anonymous Clubhouse",
     description: "A private blog board with user authentication.",
     image: "/images/projects/anonymous.png",
@@ -17,15 +33,6 @@ export const allProjects = [
     github: "https://github.com/Apurcell88/personal-trainer",
   },
   {
-    title: "Game Inventory App",
-    description:
-      "Manage games, genres, and developers with a PostgreSQL backend.",
-    image: "/images/projects/game-inventory.png",
-    tags: ["Express", "EJS", "PostgreSQL", "Neon"],
-    link: "https://inventory-qdst.onrender.com/",
-    github: "https://github.com/Apurcell88/Inventory",
-  },
-  {
     title: "Socially",
     description: "A social network site.",
     image: "/images/projects/socially.png",
@@ -40,13 +47,5 @@ export const allProjects = [
     tags: ["React", "API", "Front-end"],
     link: "https://apurcell88.github.io/movie-search/",
     github: "https://github.com/Apurcell88/movie-search",
-  },
-  {
-    title: "File Nest",
-    description: "Securely manage your files.",
-    image: "/images/projects/file-nest.png",
-    tags: ["NextJS", "Prisma", "Cloudinary"],
-    link: "https://file-nest-kappa.vercel.app/",
-    github: "https://github.com/Apurcell88/FileNest",
   },
 ];
