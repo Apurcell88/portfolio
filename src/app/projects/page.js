@@ -25,12 +25,11 @@ const projects = () => {
         </div>
       </div>
 
-      <div className="mt-24 max-w-6xl mx-auto">
-        <div className="flex flex-wrap justify-center gap-8">
+      <div className="mt-24 max-w-6xl mx-auto px-4">
+        {/* GRID LAYOUT */}
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-10 place-items-center">
           {allProjects.map((project, i) => (
-            <div key={i} className="w-full md:w-[45%]">
-              <ProjectCard key={i} {...project} />
-            </div>
+            <ProjectCard key={i} {...project} />
           ))}
         </div>
       </div>

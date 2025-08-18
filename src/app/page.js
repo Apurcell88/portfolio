@@ -57,11 +57,22 @@ export default function Home() {
         <div className="max-w-md text-center md:text-left">
           <h3 className="text-2xl font-semibold mb-3">About Me</h3>
           <p className="text-base md:text-lg leading-relaxed">
-            I enjoy building web applications with{" "}
+            I’m a self-taught web developer with a background in personal
+            training, where I learned how to listen to clients, solve problems,
+            and build tailored solutions. I enjoy building full-stack
+            applications with{" "}
             <span className="text-purple-600">JavaScript</span>,{" "}
-            <span className="text-purple-600">Node.js</span>, and{" "}
-            <span className="text-purple-600">PostgreSQL</span>. I appreciate a
-            good philosophical discussion, too.
+            <span className="text-purple-600">Node.js</span>,{" "}
+            <span className="text-purple-600">PostgreSQL</span>, and{" "}
+            <span className="text-purple-600">Next.js</span>, and I’m always
+            exploring new ways to make apps more intuitive and impactful.
+            <br />
+            <br />
+            I’m currently seeking an{" "}
+            <span className="text-purple-600">
+              entry-level web developer
+            </span>{" "}
+            role where I can contribute and grow as part of a team.
           </p>
         </div>
       </div>
