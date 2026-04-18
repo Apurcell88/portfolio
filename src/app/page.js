@@ -63,7 +63,8 @@ export default function Home() {
             workflows. I work extensively with SQL Server, writing and optimizing queries and
             stored procedures, as well as refactoring and testing code in a collaborative team
             environment.
-
+          </p>
+          <p className="text-base md:text-lg leading-relaxed">
             My background in personal training shaped how I approach development - understanding
             problems deeply, communicating clearly, and building solutions that actually work
             for people. I enjoy building full-stack applications with{" "}
@@ -72,17 +73,11 @@ export default function Home() {
             <span className="text-purple-600">PostgreSQL</span>, and{" "}
             <span className="text-purple-600">Next.js</span>, and I’m always
             exploring new ways to improve both performance and usability.
-
+          </p>
+          <p className="text-base md:text-lg leading-relaxed">
             I'm currently seeking opportunities in backend or full-stack development, ideally
             remote or in the Orlando area, where I can continue to grow and contribute to
             real-world systems.
-            <br />
-            <br />
-            I’m currently seeking an{" "}
-            <span className="text-purple-600">
-              entry-level web developer
-            </span>{" "}
-            role where I can contribute and grow as part of a team.
           </p>
         </div>
       </div>
