@@ -57,14 +57,14 @@ export default function Home() {
         </div>
         <div className="max-w-md text-center md:text-left">
           <h3 className="text-2xl font-semibold mb-3">About Me</h3>
-          <p className="text-base md:text-lg leading-relaxed">
+          <p className="text-base md:text-lg leading-relaxed mb-4">
             I'm a self-taught web developer currently working as a <b>Junior IT Developer,</b>
             where I focus on backend developement, database systems, and improving existing
             workflows. I work extensively with SQL Server, writing and optimizing queries and
             stored procedures, as well as refactoring and testing code in a collaborative team
             environment.
           </p>
-          <p className="text-base md:text-lg leading-relaxed">
+          <p className="text-base md:text-lg leading-relaxed mb-4">
             My background in personal training shaped how I approach development - understanding
             problems deeply, communicating clearly, and building solutions that actually work
             for people. I enjoy building full-stack applications with{" "}
