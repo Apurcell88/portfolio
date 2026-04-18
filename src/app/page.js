@@ -58,7 +58,7 @@ export default function Home() {
         <div className="max-w-md text-center md:text-left">
           <h3 className="text-2xl font-semibold mb-3">About Me</h3>
           <p className="text-base md:text-lg leading-relaxed mb-4">
-            I'm a self-taught web developer currently working as a <b>Junior IT Developer,</b>
+            I'm a self-taught web developer currently working as a <b>Junior IT Developer, </b>
             where I focus on backend developement, database systems, and improving existing
             workflows. I work extensively with SQL Server, writing and optimizing queries and
             stored procedures, as well as refactoring and testing code in a collaborative team
