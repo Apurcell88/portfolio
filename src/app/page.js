@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unescaped-entities */
 /* eslint-disable @next/next/no-img-element */
 "use client";
 
@@ -57,15 +58,24 @@ export default function Home() {
         <div className="max-w-md text-center md:text-left">
           <h3 className="text-2xl font-semibold mb-3">About Me</h3>
           <p className="text-base md:text-lg leading-relaxed">
-            I’m a self-taught web developer with a background in personal
-            training, where I learned how to listen to clients, solve problems,
-            and build tailored solutions. I enjoy building full-stack
-            applications with{" "}
+            I'm a self-taught web developer currently working as a <b>Junior IT Developer,</b>
+            where I focus on backend developement, database systems, and improving existing
+            workflows. I work extensively with SQL Server, writing and optimizing queries and
+            stored procedures, as well as refactoring and testing code in a collaborative team
+            environment.
+
+            My background in personal training shaped how I approach development - understanding
+            problems deeply, communicating clearly, and building solutions that actually work
+            for people. I enjoy building full-stack applications with{" "}
             <span className="text-purple-600">JavaScript</span>,{" "}
             <span className="text-purple-600">Node.js</span>,{" "}
             <span className="text-purple-600">PostgreSQL</span>, and{" "}
             <span className="text-purple-600">Next.js</span>, and I’m always
-            exploring new ways to make apps more intuitive and impactful.
+            exploring new ways to improve both performance and usability.
+
+            I'm currently seeking opportunities in backend or full-stack development, ideally
+            remote or in the Orlando area, where I can continue to grow and contribute to
+            real-world systems.
             <br />
             <br />
             I’m currently seeking an{" "}
